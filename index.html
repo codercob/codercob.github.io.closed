@@ -18,7 +18,11 @@
         <h1> {{ll}}
     </div>
 
-
+   <script>
+    var host = "YOURDOMAIN.github.io";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
     <script> 
         const app = new Vue ({
             el: '#app',
