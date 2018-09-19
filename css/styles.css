@@ -4,8 +4,13 @@ h1{
     font-family: 'Titillium Web', sans-serif;
     background-image: linear-gradient(to right, red, green);
     color: yellow;
+    font-size: 30px;
 
 }
+
+p{
+font-family: 'Titillium Web', sans-serif;
+font-size: 12px;
 
 img{
 
