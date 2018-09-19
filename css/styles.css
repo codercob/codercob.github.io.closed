@@ -55,7 +55,7 @@ text-decoration: none;
 display: inline-block;
 vertical-align: top;
 margin-right: 20px;
-height: 80px;        
+height: 80px;
 line-height: 80px;
 
 }
@@ -68,7 +68,6 @@ line-height: 80px;
     margin-top: 15px;
 
 }
-/*.navigation > a:hover {
+.navigation > a:hover {
 color: grey;
 }
-*/
