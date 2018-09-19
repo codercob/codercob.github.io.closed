@@ -38,6 +38,7 @@ html {
 .navigation-bar {
 position: fixed;
 top: 0;
+left: 0;
 width: 100%;
 color: #000;
 height: 35px;
