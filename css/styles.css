@@ -2,12 +2,18 @@
 
 h1{
     font-family: 'Titillium Web', sans-serif;
-    background-color: red;
+    background-image: linear-gradient(to right, red, yellow);
     color: green;
+
 }
 
 img{
+
+    padding-top: 15px;
     size:75%;
 }
 
+body{
+    background-image: linear-gradient(to left, red, blue);
+}
 
