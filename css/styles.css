@@ -45,7 +45,7 @@ box-shadow: 0px 0px 8px 0px #000000;
 background-color: rgba(1, 1, 1, 0.8);
 color: rgba(1, 1, 1, 0.8);
 }
-.navigation a {
+.navigation > a {
 font-family: "Helvetica", sans-serif;
 font-size: 16px;
 padding-left: 15px;
@@ -54,11 +54,15 @@ color: yellow;
 text-decoration: none;
 
 }
-.navigation logo {
-  height: 20px;
-  width:40px;
+.logo {
+  display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 15px;
 
-
-#navigation a:hover {
+}
+.navigation > a:hover {
 color: grey;
 }
