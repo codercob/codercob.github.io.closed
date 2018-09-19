@@ -73,13 +73,9 @@ color: grey;
 }
 
 #footer{
-<<<<<<< HEAD
-    margin.top: 80px
-=======
     width: 100%;
     position: fixed;
     text-align: 'center';
->>>>>>> b4b29eae84058e3cbe017d8bbaa0a0faec9769b6
     padding: 1px 0;
     background: #000;
     left: 0;
@@ -89,7 +85,7 @@ color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
-   
+
 }
 
 a {
