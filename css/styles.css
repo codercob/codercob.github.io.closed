@@ -62,7 +62,7 @@ text-decoration: none;
     margin-right: 20px;
     margin-top: 15px;
 
-
-.navigation a:hover {
+}
+.navigation > a:hover {
 color: grey;
 }
