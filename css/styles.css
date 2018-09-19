@@ -45,7 +45,7 @@ background-color: rgba(1, 1, 1, 0.8);
 color: rgba(1, 1, 1, 0.8);
 }
 #navigation a {
-font-style: Comic Sans MS;
+font-family: "Verdana", sans-serif;
 font-size: 16px;
 padding-left: 15px;
 padding-right: 15px;
