@@ -2,8 +2,8 @@
 
 h1{
     font-family: 'Titillium Web', sans-serif;
-    background-image: linear-gradient(to right, red, yellow);
-    color: green;
+    background-image: linear-gradient(to right, red, green);
+    color: yellow;
 
 }
 
@@ -16,4 +16,3 @@ img{
 body{
     background-image: linear-gradient(to left, red, blue);
 }
-
