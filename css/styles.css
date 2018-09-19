@@ -53,7 +53,7 @@ color: white;
 text-decoration: none;
 }
 #navigation img {
-  align-items: left;
+  padding-right: 500px;
   height: 20px;
   width:40px;
 
