@@ -72,6 +72,14 @@ line-height: 80px;
 color: grey;
 }
 
-#footer {
-display:block;
+#footer{
+    margin-top: 80px;
+    padding: 1px 0;
+    background: #000;
+    bottom: 0;
+    margin-right: 0px;
+    font-family: "Helvetica", Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    color: #7c7f7f;
+    text-transform: uppercase;
 }
