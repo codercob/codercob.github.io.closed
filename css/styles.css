@@ -28,14 +28,14 @@ img{
 }
 
 body{
-    background-color: : white;
+    background-color: : #7c7f7f;
 }
 .navigation-bar {
 margin-left: auto;
 position: fixed;
 top: 0;
 width: 100%;
-color: #ffffff;
+color: #000;
 height: 35px;
 padding-top: 15px;
 text-align: center;
@@ -50,7 +50,7 @@ font-family: "Helvetica", sans-serif;
 font-size: 16px;
 padding-left: 15px;
 padding-right: 15px;
-color: yellow;
+color: #7c7f7f;
 text-decoration: none;
 display: inline-block;
 vertical-align: top;
@@ -85,6 +85,11 @@ color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em
 }
 
 a {
