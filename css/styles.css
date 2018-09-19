@@ -69,7 +69,7 @@ line-height: 20px;
   /*  vertical-align: top;*/
     width: 100px;
     height: 50px;
-    align: left;
+    float: left;
     /*margin-right: 20px;
     margin-top: 15px;
     */
