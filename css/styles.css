@@ -65,10 +65,10 @@ line-height: 20px;
 }
 .logo {
   display: inline-block;
-    vertical-align: top;
+  /*  vertical-align: top;*/
     width: 100px;
     height: 50px;
-    text-align: left;
+    padding-left: 500px;
     /*margin-right: 20px;
     margin-top: 15px;
     */
