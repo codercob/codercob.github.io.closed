@@ -73,6 +73,7 @@ color: grey;
 }
 
 #footer{
+    margin.top: 80px
     padding: 1px 0;
     background: #000;
     bottom: 0;
@@ -81,11 +82,7 @@ color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
-    clear: both;
-    position: relative;
-    z-index: 10;
-    height: 3em;
-    margin-top: -3em
+   
 }
 
 a {
