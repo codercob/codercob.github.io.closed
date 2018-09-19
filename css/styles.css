@@ -35,7 +35,7 @@ html {
   height: 100%;
 }
 .navigation-bar {
-position: fixed;
+position: sticky;
 top: 0;
 width: 100%;
 color: #000;
