@@ -31,7 +31,7 @@ body{
     background-color: : white;
 }
 #navigation {
-margin-left: 0px;
+margin: 0px;
 position: fixed;
 top: 0;
 width: 100%;
