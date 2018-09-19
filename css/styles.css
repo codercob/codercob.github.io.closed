@@ -29,6 +29,10 @@ img{
 
 body{
     background-color: : #7c7f7f;
+    min-height:100%;
+}
+html {
+  height: 100%;
 }
 .navigation-bar {
 margin-left: auto;
