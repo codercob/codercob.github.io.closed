@@ -71,3 +71,7 @@ line-height: 80px;
 .navigation > a:hover {
 color: grey;
 }
+
+#footer {
+display:block;
+}
