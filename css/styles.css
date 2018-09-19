@@ -73,9 +73,12 @@ color: grey;
 }
 
 #footer{
-    margin-top: 80px;
+    width: 100%;
+    position: fixed;
+    text-align: 'center';
     padding: 1px 0;
     background: #000;
+    left: 0;
     bottom: 0;
     margin-right: 0px;
     font-family: "Helvetica", Verdana, Geneva, sans-serif;
