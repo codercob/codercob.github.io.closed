@@ -52,6 +52,7 @@ padding-left: 15px;
 padding-right: 15px;
 color: yellow;
 text-decoration: none;
+display: block;
 }
 #navigation img {
   height: 20px;
