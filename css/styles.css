@@ -93,6 +93,8 @@ color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 
 }
 
