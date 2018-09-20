@@ -84,9 +84,7 @@ line-height: 50px;
 
 
 }
-.logo:hover {
-  background-color: grey;
-}
+
 .navigation-bar > a:hover {
 color: black;
 background-color: grey;
