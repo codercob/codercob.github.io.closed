@@ -100,7 +100,7 @@ left:0;
 
 #footer{
     width: 100%;
-    position: absolute;
+    position: fixed;
     text-align: 'center';
     padding: 1px 0;
     background: #000;
