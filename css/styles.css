@@ -40,7 +40,7 @@ position: fixed;
 top: 0;
 left: 0;
 width: 100%;
-color: #898989;
+color: #000;
 height: 50px;
 padding-top: 15px;
 
@@ -85,7 +85,7 @@ color: grey;
     position: fixed;
     text-align: 'center';
     padding: 1px 0;
-    background: ##898989;
+    background: #000;
     left: 0;
     bottom: 0;
     padding-left: 10px;
