@@ -127,6 +127,8 @@ a {
   margin: center;
   padding: 5px;
   border: 2px solid black;
+  vertical-align: middle;
+  
 }
 
 /*
