@@ -103,10 +103,15 @@ a {
 }
 
 .infobox {
-  float: left;
+  float: middle-left;
   width: 200px;
   margin-left: 10px;
   margin-top: 10px;
   padding: 5px;
   border: 2px solid black;
+}
+
+.placeholder {
+  height: 15%;
+  width: 15%;
 }
