@@ -92,6 +92,10 @@ border: 5px;
 color: black;
 background-color: grey;
 }
+.active {
+    background-color: blue;
+}
+
 
 #footer{
     width: 100%;
