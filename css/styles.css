@@ -121,7 +121,7 @@ align-content: center;
 }
 
 .infobox {
-  float: left;
+  display: inline;
   width: 200px;
   margin-left: 10px;
   margin-top: 10px;
