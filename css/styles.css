@@ -23,7 +23,7 @@ font-size: 12px;
 
 /*img{
 
-    padding-top: 15px;
+    padding-top: 10px;
     size:75%;
 }
 */
@@ -77,7 +77,7 @@ line-height: 20px;
 
 }
 .navigation-bar > a:hover {
-color: grey;
+color: #898989;
 }
 
 #footer{
@@ -85,7 +85,7 @@ color: grey;
     position: fixed;
     text-align: 'center';
     padding: 1px 0;
-    background: ##898989;
+    background: #000;
     left: 0;
     bottom: 0;
     padding-left: 10px;
@@ -93,6 +93,8 @@ color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 
 }
 
