@@ -29,12 +29,11 @@ font-size: 12px;
 */
 body{
     background-image: url(http://cdn.shopify.com/s/files/1/0250/5422/files/ios_linen_texture___black_by_vegardhw-d3ddll5_copy.jpg?2614);
-    min-height:100%;
     margin:0;
 
 }
 html {
-  height: 100%;
+  
 }
 section{
  position: fixed;
