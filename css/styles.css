@@ -115,20 +115,18 @@ a {
 }
 
 
-
 .infobox {
-  float: left;
+  margin:10px;
+  margin-left:2%;
+  margin-right:1.5%;
+  width:300px;
+  text-align:left;
+  border:2px solid black;
+  display:inline-block;
+  /* display:inline-block;
   width: 200px;
   margin-left: 10px;
   margin-top: 10px;
   padding: 5px;
-  border: 2px solid black;
-
+  border: 2px solid black; */
 }
-
-/*
-.placeholder {
-  height: 1%;
-  width: 1%;
-}
-*/
