@@ -113,7 +113,19 @@ background-color: grey;
 a {
   color: #7c7f7f;
 }
+#main{
+  width: 80%;
+  background-color: #6294e5;
+  display: block;
+  height: 100%;
+  margin:auto;
+  margin-bottom: 0;
+  margin-top: 50px;
+  border-radius: 5px;
+  outline-color: blue;
+  outline-width: thin;
 
+}
 
 .infobox {
   margin:10px;
