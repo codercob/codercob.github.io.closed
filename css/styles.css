@@ -30,6 +30,7 @@ font-size: 12px;
 body{
     background-color: : #7c7f7f;
     min-height:100%;
+    margin:0;
 
 }
 html {
@@ -94,7 +95,6 @@ background-color: grey;
 
 #footer{
     width: 100%;
-    position: fixed;
     text-align: 'center';
     padding: 1px 0;
     background: #000;
@@ -105,8 +105,8 @@ background-color: grey;
     font-size: 16px;
     color: #7c7f7f;
     text-transform: uppercase;
-    border-top-left-radius: 1em;
-    border-top-right-radius: 1em;
+    margin-left: 0;
+
 
 }
 
@@ -114,17 +114,34 @@ a {
   color: #7c7f7f;
 }
 #main{
-  width: 80%;
-  background-color: #6294e5;
+  width: 70%;
   display: block;
   height: 100%;
   margin:auto;
-  margin-bottom: 0;
-  margin-top: 50px;
-  border-radius: 5px;
-  outline-color: blue;
-  outline-width: thin;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  border-radius: 30px;
+}
 
+#prisinfo {
+  width: 70%;
+  display: block;
+  height: 100%;
+  margin:auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  border-radius: 30px;
+}
+
+
+#infocontainer{
+  width: 70%;
+  display: block;
+  height: 100%;
+  margin:auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  border-radius: 30px;
 }
 
 .infobox {
