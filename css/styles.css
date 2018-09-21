@@ -160,7 +160,9 @@ a {
   text-align:left;
   border:2px solid black;
   display:inline-block;
-  background-color: white;
+  background-color: black;
+  color: #898989;
+  border-radius: 30px;
   /* display:inline-block;
   width: 200px;
   margin-left: 10px;
