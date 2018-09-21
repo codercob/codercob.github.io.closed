@@ -71,7 +71,7 @@ line-height: 50px;
 .logo {
   display: inline-block;
     vertical-align: top;
-    width: 12%;
+    /*width: 12%;*/
     height: 50px;
     float: left;
     top: 0;
