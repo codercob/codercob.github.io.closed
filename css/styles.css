@@ -95,10 +95,10 @@ background-color: grey;
 
 
 #footer{
+    position: fixed;
     width: 100%;
     text-align: 'center';
     padding: 1px 0;
-    background: #000;
     left: 0;
     bottom: 0;
     padding-left: 10px;
@@ -107,7 +107,12 @@ background-color: grey;
     color: #7c7f7f;
     text-transform: uppercase;
     margin-left: 0;
-
+    -webkit-box-shadow: 0px 0px 8px 0px #000000;
+    -moz-box-shadow: 0px 0px 8px 0px #000000;
+    box-shadow: 0px 0px 8px 0px #000000;
+    background-color: rgba(1, 1, 1, 0.8);
+    color: rgba(1, 1, 1, 0.8);
+    color: #898989;
 
 }
 
