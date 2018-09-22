@@ -140,6 +140,25 @@ a {
   padding-bottom: 30px;
 }
 
+#forsidekasser {
+  width: 20%;
+  display: inline-block;
+  margin: auto;
+  border-radius: 25px;
+  background-color: white;
+  margin-top: 7.5%;
+  text-align: center;
+  margin-left: 2%;
+
+
+}
+
+#forsidecontainer{
+margin: auto;
+width: 100%;
+text-align: center;
+
+}
 
 .infocontainer{
   width: 100%;
