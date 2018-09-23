@@ -148,7 +148,7 @@ a {
   -webkit-box-shadow: 0px 0px 8px 0px #000000;
   -moz-box-shadow: 0px 0px 8px 0px #000000;
 }
-<<<<<<< HEAD
+*/
 
 #forsidekasser {
   width: 20%;
@@ -159,6 +159,9 @@ a {
   margin-top: 7.5%;
   text-align: center;
   margin-left: 2%;
+  box-shadow: 0px 0px 8px 0px #000000;
+  -webkit-box-shadow: 0px 0px 8px 0px #000000;
+  -moz-box-shadow: 0px 0px 8px 0px #000000;
 
 
 }
@@ -169,9 +172,9 @@ width: 100%;
 text-align: center;
 
 }
-=======
-*/
->>>>>>> 20996fe7d63ff83afa7e5536d87bc2d232650b65
+
+
+
 
 .infocontainer{
   width: 100%;
