@@ -167,12 +167,17 @@ a {
 
 #forsidekasser>a{
   display:inline-block;
-  width: 55px;
-  height: 4%;
-  margin: auto;
-  background-color: green;
-  border-radius: 25px;
-  color: black;
+  width: 150px;
+  height: 75px;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: lightgreen;
+  border-radius: 40px;
+  color: #7c7f7f;
+  text-decoration: none;
+  font-size: 24;
+  vertical-align: text-bottom;
+  line-height: 70px;
 }
 
 #forsidecontainer{
