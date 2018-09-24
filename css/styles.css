@@ -19,14 +19,14 @@ font-family: 'Titillium Web', sans-serif;
 font-size: 12px;
 }
 
-/*img{
+img{
 
     padding-top: 10px;
     size:75%;
 }
-*/
+
 body{
-    background-image: url(img/back.jpg);
+    background-image: url(https://imgur.com/21qN6Eq);
     margin:0;
 
 }
@@ -219,4 +219,9 @@ margin-top: 50px;
   margin-top: 10px;
   padding: 5px;
   border: 2px solid black; */
+}
+
+.infobox>img {
+  padding-top: 20px;
+  border-radius: 30px;
 }
