@@ -190,7 +190,6 @@ a {
   display:inline-block;
   width: 180px;
   height: 50px;
-  margin-top: auto;
   margin-bottom: auto;
   background-color: #7c7f7f;
   border-radius: 30px;
@@ -204,7 +203,7 @@ a {
 margin: auto;
 width: 100%;
 text-align: center;
-margin-top: 50px;
+margin-top: 450px;
 }
 
 
