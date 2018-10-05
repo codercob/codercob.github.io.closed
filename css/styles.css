@@ -172,6 +172,7 @@ a {
 */
 
 #forsidekasser {
+  position: absolute;
   width: 20%;
   display: inline-block;
   border-radius: 25px;
