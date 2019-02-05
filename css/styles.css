@@ -10,19 +10,28 @@
 
 h1{
     font-family: 'Titillium Web', sans-serif;
-    color: #7c7f7f;
+    color: #9da0a0;
     font-size: 30px;
+}
+
+b {
+    color: #9da0a0;
+}
+
+i {
+    color: #9da0a0;
 }
 
 h2{
     font-family: 'Titillium Web', sans-serif;
-    color: #7c7f7f;
+    color: #9da0a0;
     font-size: 20px;
 }
 
 p{
 font-family: 'Titillium Web', sans-serif;
 font-size: 16px;
+color: #9da0a0
 }
 
 img{
@@ -108,8 +117,10 @@ background-color: grey;
 
 
 #footer{
-    position: fixed;
+    position: relative;
+    margin-top: auto;
     width: 100%;
+    height: 100px;
     text-align: 'center';
     padding: 1px 0;
     left: 0;
@@ -134,13 +145,13 @@ a {
 }
 
 #main{
-  width: 50%;
+  width: 70%;
   display: block;
   margin:auto;
   margin-bottom: 5%;
   margin-top: 100px;
-  border-radius: 30px;
-  background-color: white;
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.7);
   box-shadow: 0px 0px 8px 0px #000000;
   -webkit-box-shadow: 0px 0px 8px 0px #000000;
   -moz-box-shadow: 0px 0px 8px 0px #000000;
@@ -198,7 +209,7 @@ a {
   width: 20%;
   display: inline-block;
   border-radius: 25px;
-  background-color: white;
+  background-color: rgba(0,0,0,0.7);
   text-align: center;
   margin-left: 2%;
   margin-right: 2%;
