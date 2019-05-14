@@ -20,4 +20,4 @@ function getFormula(which) {
       document.getElementById('formula').innerHTML="<img src='billeder/20.jpg' width='200'></img>";
       break;
   }
-}
+} 
