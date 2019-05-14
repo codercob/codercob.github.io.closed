@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Visual trigonometry</title>
+    <script type="text/javascript" src="js.js"></script>
+    <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css"></link>
+  </head>
+  <body>
+    <div class="row">
+      <div class="titel_left" style="float: left; width: 45%;">
+        <center>
+          <h1>Den retvinklede trekant</h1>
+        </center>
+      </div>
+      <div class="titel_left" style="float: right; width: 50%;">
+        <center>
+          <h1>Formler</h1>
+        </center>
+      </div>
+    </div>
+    <div class="row">
+      <div class="left" style="float: left; width: 45%;">
+		<center>
+        	<img src="trekant.png" alt="Failed to load triangle" usemap="#Map" id="trekant">
+        </center>
+		<map name="Map" id="Map">
+          <area alt="" title="" href="#" shape="rect" coords="6,323,65,375" onmouseover="getFormula('leftangle')" />
+          <area alt="" title="" href="#" shape="rect" coords="472,0,544,56" onmouseover="getFormula('topangle')"/>
+          <area alt="" title="" href="#" shape="rect" coords="479,316,540,372" onmouseover="getFormula('rightangle')"/>
+          <area alt="" title="" href="#" shape="rect" coords="96,330,468,372" onmouseover="getFormula('lowercathode')"/>
+          <area alt="" title="" href="#" shape="poly" coords="117,326,79,291,431,48,462,81" onmouseover="getFormula('hypotenuse')"/>
+          <area alt="" title="" href="#" shape="rect" coords="497,79,535,313" onmouseover="getFormula('rightcathode')"/>
+        </map>
+      </div>
+      <div class="right" style="float: right; width: 50%;">
+        <center>
+			       <div id="formula"></div>
+      	</center>
+	    </div>
+    </div>
+  </body>
+</html>
